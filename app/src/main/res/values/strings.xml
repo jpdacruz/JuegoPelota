@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Threads sound</string>
+
+    <string name="dificultad">Please choose starting level:</string>
+    <string name="record">Record</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Standard</string>
+    <string name="dificil">Dificult</string>
+    <string name="ayuda">Help</string>
+    <string name="textayuda">Try to avoid that ball hit the ground! Just hit the ball to other direction to stay to the game!</string>
+    <string name="volver">Back</string>
+</resources>
